@@ -22,4 +22,4 @@ loaded from a CDN, so it needs an internet connection.
 
 The site is published with GitHub Pages from the `main` branch:
 
-`https://<github-user>.github.io/cosmoscope/`
+`https://prachik2906.github.io/cosmoscope/`
